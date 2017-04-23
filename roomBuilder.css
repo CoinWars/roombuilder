@@ -1,0 +1,11 @@
+#container {
+  position: absolute;
+  left:     50%;
+  top:      50%;
+  overflow: hidden;
+}
+
+#roomCanvas {
+  width: 100%;
+  height: 100%;
+}
